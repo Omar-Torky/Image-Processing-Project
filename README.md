@@ -1,0 +1,31 @@
+This is an Image Processing Project that allows you to do certain operations on the image you want to detect edges in that image
+The operation are:
+  -  Calculatig its threshold.
+  -  Simple Halftoning.
+  -  Advanced Halftoning using Error Diffusion.
+  -  Apply Histogram.
+  -  Histogram Equalization.
+  -  Simple Edge Detection Methods:
+     - Sobel Operator.
+     - Prewitt Operator.
+     - Kirsch Compass Masks.
+  -  Advanced Edge Detection Methods:
+     - Homogeneity Operator.
+     - Difference Operator.
+     - Difference of Gaussians Operator.
+     - Contrast-Based Edge Detection.
+     - Variance Edge Detection.
+     - Range Edge Detection.
+  -  Three Types of Filterings:
+     - High-Pass Filter.
+     - Low-Pass Filter.
+     - Median Filter.
+  -  Image Operations:
+     - Invert The Image.
+     - Adding Two Images.
+     - Subtracting Two Images.
+  -  Histogram-Based Segmentaion:
+     - Manual Technique.
+     - Histogram Peak Technique.
+     - Histogram Valley Technique.
+     - Adaptive Histogram Technique.
